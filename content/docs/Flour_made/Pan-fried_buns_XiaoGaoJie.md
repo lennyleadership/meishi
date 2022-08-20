@@ -19,7 +19,7 @@ toc: true
 
 <table style="width:100%;">
 <caption style="text-align:left", align = "top"><b>包子配方 75% 水:面比</b></caption>
-<colgroup><col style="width: 40%" /><col style="width: 60%" />
+<colgroup><col style="width: 60%" /><col style="width: 40%" />
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
