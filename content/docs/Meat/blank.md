@@ -1,17 +1,19 @@
 ---
-weight: 98
-title: template
+weight: 99
+title: blank
 authors: null
 categories: null
+tags: null
 date: "2022-08-16"
-description: 
+description:  
 draft: false
 lastmod: "2022-08-16"
 series: null
-tags: null
 toc: true
-bookCollapseSection: true
 ---
+
+
 
 <!--more-->
 ---
+

@@ -1,6 +1,6 @@
 ---
-weight: 98
-title: template
+weight: 2
+title: 荤菜
 authors: null
 categories: null
 date: "2022-08-16"
